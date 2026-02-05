@@ -1,9 +1,9 @@
+/**
+ * 맞았는데 다시 한번 또 풀어보면 좋을듯
+ */
+
 public class Solution9 {
     public int solution(int n){
-
-        //1. 3진수로 변환
-        //2. reverse
-        //3. 10진수로 변환
 
 
         return 0;
