@@ -4,4 +4,7 @@ public class Solution19 {
 
         return null;
     }
+    public static void main(String[] args){
+        new Solution19().solution(10,2);
+    }
 }
